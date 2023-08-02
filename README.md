@@ -8,21 +8,17 @@
 ## Dependencias:
 -   Docker e docker-compose
 -   Instalaçao do Make (Opcional)
--   Clone do frontend () (Opcional)
+-   Clone do frontend (https://github.com/raylison100/test-frontend) (Opcional)
 
-### OBJS: Caso não queria usar o front comentar seu container no docker-compose.
+#### Obs.: Caso não queria usar o front comentar seu container no docker-compose.
+
+#### Coleçao do postman com exemplos no arquivo "TESTE-BACKEND.postman_collection.json"
 
 ## Instalação
 
 ### Instale o MAKE
 Para simplificar a ultilizaçao do docker recomendo baixar o make e assim seguir os proximos passos.
 Caso nao queria instalar o make, pode realizar os comandos docker diretos manualmente. Para isso vc deve seguir a ordem dos comandos descristas no arquivo makefile.
-
-
-### criei o .env
-```bash
-Copiar o arquivo .env.exemplo para .env
-```
 
 ### Instale a aplicaçao
 Execute o comando abaixo
